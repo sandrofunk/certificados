@@ -1,11 +1,6 @@
-# certificados
+# Meus Certificados
 
 📜 Repositório para armazenar e organizar meus certificados acadêmicos e profissionais.
-
-
-
-\# 🎓 Meus Certificados
-
 
 
 Bem-vindo(a) ao meu repositório de certificados!  
@@ -47,7 +42,9 @@ Este repositório serve como um \*\*portfólio público\*\* dos conhecimentos ad
 \## 🏆 Destaques
 
 \- Formação em Informática para Gestão de Negócios - FATEC Botucatu - SP  
-
+\- Formação em Administração de Empresas - UNIFAC Boucatu - SP  
+\- Mestre em Biotecnologia Médica - UNESP Botucatu - SP  
+\- Doutorando em Biotenologia Médica - UNESP Botucatu - SP  
 
 
 ---
